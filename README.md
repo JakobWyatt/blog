@@ -1,2 +1,2 @@
 # JakobWyatt.github.io
-Personal Website- Undecided what to do with it yet.
+The blog of an aspiring software developer. Powered by Jekyll.
