@@ -1,3 +1,9 @@
+---
+layout: page	
+title: Resume	
+permalink: /resume/	
+---
+
 ## Education:
 
 **Curtin University:** (2018 -- 2022)
