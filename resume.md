@@ -4,116 +4,82 @@ title: Resume
 permalink: /resume/	
 ---
 
+
 ## Education:
 
-**Curtin University:** (2018 -- 2022)
+**Curtin University (Mechatronics Engineering (Honours) and Computer
+Science):** (2018 --2022)
 
-Studying a double degree in Mechatronics Engineering (Honours) and
-Computer Science.
+Achieved the Curtin Excellence Scholarship.
 
-Achieved the Curtin Excellence Scholarship (\$15 000).
+Course Weighted Average of 92.3%.
 
-Course Weighted Average of 90.3%.
+3 times Vice Chancellors List Recipient (Top 1% of undergraduate
+students).
 
-Vice Chancellors List Recipient (Top 1% of students).
+2019 Westrac Prize for Most Outstanding Second Year Student in
+Mechatronic Engineering.
 
-**Governor Stirling SHS:** (2013 -- 2017)
-
-Graduated with an ATAR of 99.65.
+**Governor Stirling SHS:** (2013 -- 2017) -- 99.65 ATAR
 
 ## Experience:
 
-**VGW -- Intern Data Engineer:** (March 2019 - June 2019)
+**Curtin University -- Sessional Academic:** (February 2020 -- Present)
 
-While at VGW I helped with the transition to a new big data
-architecture.
+Computer Science Tutor (Unix and C Programming)
 
-Some projects included:
+**VGW -- Intern Data Scientist:** (December 2019 - Present)
 
--   A distributed sequential pattern mining implementation on Databricks
-    with Apache Spark.
+Developed a pattern mining program to process/analyse billions of user
+actions with Spark.
 
--   A Scala library, using Apache Spark, for curation of raw data, as
-    well as file format conversion.
+Modelled customer support resolution times using machine learning. This
+helped identify improvements to the customer support process.
 
--   Bug fixing and improved data visualisation for a live data quality
-    monitor.
+**Micromine -- Intern Software Developer:** (June 2019 -- December 2019)
 
-**Curtin Motorsport Team:** (March 2018 -- Present)
+At Micromine I worked on their core software product (Micromine), as
+well as their online licensing software.
 
-Recruitment manager and electronics team member for Curtin Motorsport
-Team, a formula student team that races in the FSAE Australasia
-competition annually. \
-Responsibilities included:
+-   Implemented a new high-performance gridding/surface interpolation
+    algorithm in C++.
 
--   Leading a team of 5 people to test, interview, and train 70
-    potential team members.
+-   Created an online analytics dashboard with Django, which was used to
+    track the beta releases of new software.
 
--   Creating a datalogger/live telemetry system for a Racecar, using
-    Rust/Go/Embedded C/HAL libraries.
+**VGW -- Intern Data Engineer:** (March 2019 - July 2019)
 
--   Analysis of collected data using MATLAB, refactoring and optimising
-    legacy code to deal with much larger datasets. Optimised execution
-    speed by 3 orders of magnitude.
+Created a Scala/Apache Spark library for ETL tasks using the Databricks
+platform.
 
--   Programming full-stack server applications using Node.js and SQL.
+Implemented DevOps pipelines using AWS products.
 
--   Design and simulation of low noise PCBs using Altium.
+**Curtin Motorsport Team - Recruitment manager / Electronics Design:**
+(March 2018 -- December 2019)
 
--   Component design with Solidworks. (Certified Solidworks Associate)
+-   Lead a team of 3 people to test, interview, and train 70 potential
+    team members.
 
-**Curtin University -- Engineering Tutor:** (July 2018 -- November 2018)
+-   Created a datalogger/live telemetry system for a Racecar, using
+    Rust, Go, and Embedded C (STM32).
 
-Tutored first year engineering students in the fields of mathematics,
-electronics, and mechanics.
+-   Design and manufacture of low noise PCBs using Altium.
 
-**Open Source Development (Self Employed):** (February 2017 -- Present)
+-   Component design using Solidworks. (Certified Solidworks Associate)
 
-Development and maintenance of various open-source projects, including:
+**Curtin University -- Volunteer Engineering Tutor:** (July 2018 --
+November 2018)
 
--   Framework for deep neural networks in C++, which was tested using
-    digit recognition and mathematical regression problems.
+**Open Source Projects:** (February 2017 -- Present)
 
--   Interpreter for the Maple language, written in Go. All components of
-    the interpreter, including tokenization, parsing, and abstract
-    syntax tree execution, were written from scratch.
-
--   Currently developing an app which helps compare foods while
-    shopping. This project involves usage of Xamarin and C\#/.NET.
-
--   High-performance parallel linear algebra library for C++. This was a
-    collaborative project, using git extensively to manage multiple
-    contributors.
-
--   Various other projects in R, python, and javascript.
+Refer to [jakobwyatt.github.io](https://jakobwyatt.github.io) for
+relevant projects.
 
 **Pioneer Water Tanks:** (Casual, November 2017 -- February 2018)
 
-Responsibilities included:
+**Coles Services:** (Part Time, August 2016 -- May 2019)
 
--   Machine operation (tapping machine, guillotine, and roll former)
-
--   Machine maintenance
-
--   Sensor diagnostics
-
--   Painting and cleaning
-
-**Bayswater Sea Scouts:** (March 2017 -- November 2017)
-
-Previously served as the chairman for Bayswater venturer unit, with
-other roles including vice-chairman and secretary.
-
-Lead a team of 15 people for event organisation. Skills included
-leadership, risk management, fundraising, finance, and public speaking.
-
-## Qualifications:
-
--   2016- Unit Management course (Scout Association of Australia)
-
--   2015 - Australian Scout Medallion (Scout Association of Australia)
-
--   2015- Leadership Skills course (Scout Association of Australia)
+**Bayswater Venturer Unit -- Chairman:** (March 2017 -- November 2017)
 
 ## References:
 

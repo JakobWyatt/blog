@@ -25,10 +25,6 @@ Great for practicing your strategies before you go to the casino, as the dealer 
 ## [BMP Writer](https://github.com/JakobWyatt/bmp_writer)
 A C++ library for creating bitmap images, using a modern C++ iterator interface. Optimized for extremely fast read/write speeds.
 
-## [The Collection](https://github.com/JakobWyatt/The-Collection)
-A collection of useful C++ features, all put into one library. Includes parallelized linear algebra operations, generic container views (before the GSL made them cool), and some nice type manipulation functions.  
-This was a collaborative project between a friend and I.
-
 ## [Music Library](https://github.com/JakobWyatt/Music_Library)
 A command line tool to help manage song metadata.
 Allows the user to search for music, filter songs, and save music libraries to disk.  
